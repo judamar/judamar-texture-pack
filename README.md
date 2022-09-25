@@ -1,2 +1,2 @@
-# Aquarium-Texture-Pack-Addon
-version modificada del texrure pack de aquarium smp, combina texturas de varias versiones. Contiene texturas de Vanilla Tweaks, matulul
+# Judamar texture pack
+Basicamente agarro texturas de todo lado y las junto en un solo lado, algunas las modifico con el GIMP.

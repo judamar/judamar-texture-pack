@@ -1,2 +1,4 @@
-# Judamar texture pack
-Basicamente agarro texturas de todo lado y las junto en un solo lado, algunas las modifico con el GIMP.
+# Texture que uso en la 1.12.2
+## **src:** BBC, XeKr, NC, matulul, AFJEWELER, VanillaTweaks entre otros 
+
+Este es la v1, estoy trabajando con las puertas 3d y otras cosas.
